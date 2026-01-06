@@ -83,7 +83,7 @@ The dataset includes around 9,600 entries with a mix of movies and TV shows from
 ## 📫 Contact
 
 Built by **Deepthi Murali**  
-GitHub: https://github.com/your-username  
+GitHub: (https://github.com/PeaceOff) 
 LinkedIn: (https://www.linkedin.com/in/dmurali28)
 
 
